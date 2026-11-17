@@ -1,0 +1,10 @@
+# data and checkpoints are not stored in the repository
+data/
+*.h5
+*.pt
+*.pth
+*.ckpt
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+desktop.ini

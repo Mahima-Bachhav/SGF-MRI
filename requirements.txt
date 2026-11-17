@@ -1,0 +1,9 @@
+torch>=2.0
+numpy
+scipy
+h5py
+scikit-image
+matplotlib
+tqdm
+psutil
+huggingface_hub
